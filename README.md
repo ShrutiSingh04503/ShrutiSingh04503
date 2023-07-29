@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutisingh04503" alt="shrutisingh04503" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shrutisingh" target="blank"><img src="https://img.shields.io/twitter/follow/shrutisingh?logo=twitter&style=for-the-badge" alt="shrutisingh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ShrutiS91283501" target="blank"><img src="https://img.shields.io/twitter/follow/shrutisingh?logo=twitter&style=for-the-badge" alt="shrutisingh" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?resize=1000x750&vertical=center">
 - 🔭 I’m currently working on **React JS**
