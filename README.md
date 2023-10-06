@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **shrutisingh04503@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wbPJtFKweVUZ4gSy5BpP3Yn0ckxfm8LR/view?usp=drive_link](https://drive.google.com/file/d/1wbPJtFKweVUZ4gSy5BpP3Yn0ckxfm8LR/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wbPJtFKweVUZ4gSy5BpP3Yn0ckxfm8LR/view?usp=drive_link](https://drive.google.com/file/d/1ymfR1WM5OxRQ6EsE1u7v6cRB8VH6jb_z/view?usp=drive_link)
 
 - ⚡ Fun fact **I love studying about astronomy**
 
